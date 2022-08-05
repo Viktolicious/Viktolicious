@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viktolicious
 - 👀 I’m interested in making sense of data, especially big data.
-- 🌱 I’m currently learning data analysis with Python and SQL
+- 🌱 I’m currently fine tuning my data analysis skills with Python and SQL
 - 📫 You reach me at viktorelofsson.ve@gmail.com
 
 <!---
